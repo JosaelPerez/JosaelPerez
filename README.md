@@ -15,15 +15,15 @@
 
 ## Fullstack Developer
 
-Hey, I'm a fullstack developer specializing in building fast, modern web applications with a strong background in creating responsive user interfaces using modern web frameworks. I design and deploy efficient APIs on serverless platforms ensuring smooth data flow and performance, as well as reducing management overhead and maintenance costs.
+Hey, I'm a fullstack developer building modern web apps with modern tech stacks. I’m always improving my skills by pushing commits and boundaries to deliver something people want, as well as building for startups and busy founders to become the technical founder I want to be someday:)
 
 ### Tech Stack (TL;DR)
 
 💻 **Frontend:**
-React, TypeScript, TailwindCSS, Shadcn (Radix), TanStack (Start, Router, Query, Table, Forms)
+React, TypeScript, TailwindCSS, Shadcn, TanStack (Query, Table, Forms)
 
 ⚙️ **Backend:** 
-TanStack Start (APIs), PostgreSQL, Redis (Caching), Qstash (Message Queue)
+NextJS, PostgreSQL, Redis, Qstash
 
 🌐 **Hosting & DevOps:**
 Vercel, Linux
